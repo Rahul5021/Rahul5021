@@ -55,7 +55,7 @@ _**2019 – 2024**_
 - Developed a **machine learning-based system** using **Random Forest** to provide personalized agricultural insights.
 - Implemented using **Flask** for seamless communication between the model and the user interface.
 - Enhanced prediction accuracy with **data preprocessing**, feature engineering, and model fine-tuning.  
-[GitHub Repository](#)
+[GitHub Repository](https://github.com/Rahul5021/crop-recommendation-system)
 
 ---
 
@@ -63,7 +63,7 @@ _**2019 – 2024**_
 - Extracted and transformed e-commerce data using **web scraping (BeautifulSoup)**.  
 - Built a predictive model using **Linear Regression** for price estimation.
 - Deployed the solution as a **user-friendly Streamlit app** for real-time predictions.  
-[GitHub Repository](#)
+[GitHub Repository](https://github.com/Rahul5021/Laptop-Price-Prediction)
 
 ---
 
@@ -71,16 +71,16 @@ _**2019 – 2024**_
 - Designed and implemented machine learning models for classifying air quality based on API data.
 - Processed raw data and cleaned it using **advanced Python libraries (Pandas, NumPy)**.
 - Deployed the system for **real-time predictions** using Flask.  
-[GitHub Repository](#)
+[GitHub Repository](https://github.com/Rahul5021/air-quality-classifier)
 
 ---
 
 ## 📫 Get in Touch
 - **Email**: agrawal.rahul.1025@gmail.com  
 - **Phone**: +977 9862915029  
-- **LinkedIn**: [https://www.linkedin.com/in/agrawalrahul1025/] 
-- **GitHub**: [https://www.github.com/Rahul5021]
-- **Portfolio**: [https://www.rahulagrawal.com.np]  
+- **LinkedIn**: [Linkdein](https://www.linkedin.com/in/agrawalrahul1025/)
+- **GitHub**: [Github](https://www.github.com/Rahul5021)
+- **Portfolio**: [Portfolio](https://www.rahulagrawal.com.np) 
 
 ---
 
