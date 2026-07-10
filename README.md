@@ -1,88 +1,105 @@
-# Rahul Agrawal - Data Enthusiast
+# Rahul Agrawal — Data Analyst
 
 ## 🌟 About Me
-Hello! I'm Rahul Agrawal, a passionate Data Enthusiast from Kathmandu, Nepal, with a strong foundation in **Python**, **machine learning**, and **data visualization**. I specialize in transforming complex data into actionable insights to solve real-world problems, drive business growth, and improve decision-making.
+
+I grew up around my family's retail business, where I developed an interest in how data
+drives business decisions. Today, I use **Python**, **SQL**, **Tableau**, and **Power BI**
+to transform data into meaningful insights, with hands-on experience in financial and
+healthcare analytics. I'm now building on that foundation with work in AI, Machine
+Learning, and Generative AI.
+
+Based in Kathmandu, Nepal.
 
 ---
 
 ## 💼 Work Experience
-### **Data Analyst Intern**  
-**Cubical Technologies** – Itahari, Nepal  
-_**December 2023 – March 2024**_
 
-- Analyzed data across **e-commerce**, **healthcare**, and **industrial growth** domains using **Python**, **SQL**, and **Excel**.
-- Designed and implemented **interactive dashboards** using **Tableau** to visualize healthcare trends in Nepalese hospitals.
-- Explored SEO strategies for platforms like Flipkart to improve online visibility.
-- Collaborated with cross-functional teams to interpret results and deliver data-driven insights.
+### **Junior Data Analyst**
+**A1 IT Innovation** – Damak, Nepal
+*September 2025 – Present*
+- Identified a 15% year-over-year decline in a client bank's liquidity ratio (FY 2023/24) through financial performance analysis
+- Deliver healthcare analytics for government hospital clients, translating raw data into actionable reports
+- Manage data versioning and reproducibility across client projects using DVC
+
+### **Data Analyst Intern**
+**A1 IT Innovation** – Damak, Nepal
+*December 2024 – June 2025*
+- Real-world data analysis across e-commerce and finance domains
+- Used Python, Excel, and Tableau to process and visualize business data
+
+### **Data Analyst Intern**
+**Cubical Technologies** – Itahari, Nepal
+*December 2023 – March 2024*
+- Improved data accuracy by 20% via streamlined Python/SQL data cleaning
+- Built Tableau dashboards for healthcare and industrial growth trends
+- Recommended SEO strategies that increased platform visibility by 15%
+- Contributed to automated data pipeline design, reducing manual effort by 30%
 
 ---
 
 ## 🧠 Skills
-### **Programming**
-- **Python**: Proficient in Pandas, NumPy, Seaborn, Matplotlib.
-- **SQL**: Skilled in working with SQL Server and MySQL.
 
-### **Visualization**
-- **Tableau**: Expertise in dashboard creation and data visualization.
-- **Excel**: Experienced in VLookup, Conditional Formatting, Pivot Tables.
+**Core Tools & Languages:** Python (Pandas, NumPy), Excel, SQL, Tableau, Power BI, Flask, Git, GitHub, DVC
 
-### **Machine Learning**
-- Regression, Classification, Model Optimization, Feature Engineering.
+**Machine Learning & Analytics:** Regression, Classification, Feature Engineering, Model Optimization
 
-### **Other Skills**
-- **Version Control**: Git, GitHub, DVC (Data Version Control).  
-- **ETL**: Data Extraction, Transformation, and Loading with Python.  
-- **Software Development**: SDLC Practices, OOP.
+**Engineering & Process:** OOP, SDLC, Requirements Gathering & KPI Definition
 
 ---
 
 ## 📚 Education
-**Bachelor of Arts in Computer Application**  
-**Tribhuvan University** – Kathmandu, Nepal  
-_**2019 – 2024**_  
-**Majors:** Data Analysis and Visualization, Statistics.
+
+**Bachelor of Arts in Computer Application**
+Tribhuvan University – Kathmandu, Nepal
+CGPA: 3.62
+Relevant Coursework: Data Analysis and Visualization, Statistics, Financial Accounting, Introduction to Management
 
 ---
 
 ## 🏆 Certifications
-- **Introduction to Programming Using Python** – edX – cs50P (December 2023).  
-- **Data Visualization Using Tableau** – EC Council (March 2024).
+
+- **Introduction to Programming Using Python (CS50P)** – edX / Harvard University
+- **Data Visualization Using Tableau** – EC-Council
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
+
+### **Global Sports Footwear Sales — Exploratory Data Analysis**
+End-to-end EDA testing whether brand, discounting, geography, sales channel, and customer
+income level actually drive purchasing behavior — includes a data-provenance case study
+identifying the dataset as synthetically generated based on consistent evidence across
+six independent tests.
+- Python, Pandas, `groupby`, `pd.cut`, `pd.crosstab`, datetime analysis
+[GitHub Repository](https://github.com/Rahul5021/footwear-sales-eda) · [Dataset on Kaggle](https://www.kaggle.com/datasets/rahulagrawal1025/global-sports-footwear-sales-20182026-cleaned/data)
+
 ### **Crop Recommendation System**
-- Developed a **machine learning-based system** using **Random Forest** to provide personalized agricultural insights.
-- Implemented using **Flask** for seamless communication between the model and the user interface.
-- Enhanced prediction accuracy with **data preprocessing**, feature engineering, and model fine-tuning.  
+A Flask web app using machine learning (Random Forest) to analyze soil, environment, crop
+type, and season for personalized agricultural recommendations.
+- Flask, Machine Learning, RESTful APIs
 [GitHub Repository](https://github.com/Rahul5021/crop-recommendation-system)
 
----
+### **Air Quality Classifier**
+An end-to-end web application using machine learning to classify air quality from
+real-time environmental data.
+- Python, Flask, Docker Deployment
+[GitHub Repository](https://github.com/Rahul5021/air-quality-classifier)
 
 ### **Laptop Price Prediction**
-- Extracted and transformed e-commerce data using **web scraping (BeautifulSoup)**.  
-- Built a predictive model using **Linear Regression** for price estimation.
-- Deployed the solution as a **user-friendly Streamlit app** for real-time predictions.  
+A machine learning project predicting laptop prices based on specifications, deployed as
+a real-time Streamlit app.
+- Python, Machine Learning, Pandas & Scikit-learn
 [GitHub Repository](https://github.com/Rahul5021/Laptop-Price-Prediction)
 
----
-
-### **Air Quality Classifier**
-- Designed and implemented machine learning models for classifying air quality based on API data.
-- Processed raw data and cleaned it using **advanced Python libraries (Pandas, NumPy)**.
-- Deployed the system for **real-time predictions** using Flask.  
-[GitHub Repository](https://github.com/Rahul5021/air-quality-classifier)
+### **Liquidity Analysis Dashboard**
+An interactive Tableau dashboard analyzing 5 years of liquidity ratios for a commercial bank.
+- Tableau, Excel, Banking Analytics
 
 ---
 
 ## 📫 Get in Touch
-- **Email**: agrawal.rahul.1025@gmail.com  
-- **Phone**: +977 9862915029  
-- **LinkedIn**: [Linkdein](https://www.linkedin.com/in/agrawalrahul1025/)
-- **GitHub**: [Github](https://www.github.com/Rahul5021)
-- **Portfolio**: [Portfolio](https://www.rahulagrawal.com.np) 
 
----
-
-## 🌟 Fun Fact
-I'm driven by a curiosity to find meaningful patterns in data and enjoy turning complex problems into elegant, data-driven solutions. Let's connect and collaborate!
+- **Email:** contact@rahulagrawal.com.np
+- **Portfolio:** [rahulagrawal.com.np](https://rahulagrawal.com.np)
+- **LinkedIn:** [linkedin.com/in/agrawalrahul1025](https://www.linkedin.com/in/agrawalrahul1025/)
+- **GitHub:** [github.com/Rahul5021](https://github.com/Rahul5021)
