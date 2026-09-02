@@ -5,8 +5,9 @@
 I grew up around my family's retail business, where I developed an interest in how data
 drives business decisions. Today, I use **Python**, **SQL**, **Tableau**, and **Power BI**
 to transform data into meaningful insights, with hands-on experience in financial and
-healthcare analytics. I'm now building on that foundation with work in AI, Machine
-Learning, and Generative AI.
+healthcare analytics. I'm now building on that foundation with real work in AI, Machine
+Learning, and Generative AI — including a hybrid RAG + tool-calling assistant built with
+the Gemini API.
 
 Based in Kathmandu, Nepal.
 
@@ -41,6 +42,8 @@ Based in Kathmandu, Nepal.
 
 **Core Tools & Languages:** Python (Pandas, NumPy), Excel, SQL, Tableau, Power BI, Flask, Git, GitHub, DVC
 
+**AI / GenAI:** Gemini API, RAG, FAISS, Sentence Transformers, Tool-Calling, Prompt Engineering
+
 **Machine Learning & Analytics:** Regression, Classification, Feature Engineering, Model Optimization
 
 **Engineering & Process:** OOP, SDLC, Requirements Gathering & KPI Definition
@@ -49,7 +52,7 @@ Based in Kathmandu, Nepal.
 
 ## 📚 Education
 
-**Bachelor of Arts in Computer Application**
+**Bachelor of Computer Application**
 Tribhuvan University – Kathmandu, Nepal
 CGPA: 3.62
 Relevant Coursework: Data Analysis and Visualization, Statistics, Financial Accounting, Introduction to Management
@@ -58,6 +61,7 @@ Relevant Coursework: Data Analysis and Visualization, Statistics, Financial Acco
 
 ## 🏆 Certifications
 
+- **Deloitte Australia – Data Analytics Job Simulation**
 - **Introduction to Programming Using Python (CS50P)** – edX / Harvard University
 - **Data Visualization Using Tableau** – EC-Council
 
@@ -65,12 +69,26 @@ Relevant Coursework: Data Analysis and Visualization, Statistics, Financial Acco
 
 ## 🚀 Featured Projects
 
+### **E-Commerce AI Assistant**
+A hybrid AI analytics assistant combining SQL tool-calling and RAG over 40,000+ real
+customer reviews — using local embeddings, FAISS, and MMR retrieval, with explicit
+system-prompt safeguards against LLM hallucination.
+- Python, Gemini API, RAG (FAISS + MMR), DuckDB, Streamlit
+[GitHub Repository](https://github.com/Rahul5021/ecommerce-ai-assistant)
+
+### **Global Terrorism Trends Analysis**
+A dual-tool analysis of 111,000+ incidents (2000–2017) — trend, correlation, attack
+method, and geographic patterns, cross-verified against real-world historical events,
+built in both pandas and Power BI.
+- Python, Pandas, Power BI, Geospatial Analysis
+[GitHub Repository](https://github.com/Rahul5021/global-terrorism-eda)
+
 ### **Global Sports Footwear Sales — Exploratory Data Analysis**
 End-to-end EDA testing whether brand, discounting, geography, sales channel, and customer
 income level actually drive purchasing behavior — includes a data-provenance case study
 identifying the dataset as synthetically generated based on consistent evidence across
-six independent tests.
-- Python, Pandas, `groupby`, `pd.cut`, `pd.crosstab`, datetime analysis
+six independent tests. Implemented in both pandas and SQL.
+- Python, Pandas, SQL, `groupby`, `pd.cut`, `pd.crosstab`, CTEs, window functions
 [GitHub Repository](https://github.com/Rahul5021/footwear-sales-eda) · [Dataset on Kaggle](https://www.kaggle.com/datasets/rahulagrawal1025/global-sports-footwear-sales-20182026-cleaned/data)
 
 ### **Crop Recommendation System**
@@ -85,16 +103,6 @@ real-time environmental data.
 - Python, Flask, Docker Deployment
 [GitHub Repository](https://github.com/Rahul5021/air-quality-classifier)
 
-### **Laptop Price Prediction**
-A machine learning project predicting laptop prices based on specifications, deployed as
-a real-time Streamlit app.
-- Python, Machine Learning, Pandas & Scikit-learn
-[GitHub Repository](https://github.com/Rahul5021/Laptop-Price-Prediction)
-
-### **Liquidity Analysis Dashboard**
-An interactive Tableau dashboard analyzing 5 years of liquidity ratios for a commercial bank.
-- Tableau, Excel, Banking Analytics
-
 ---
 
 ## 📫 Get in Touch
@@ -103,3 +111,4 @@ An interactive Tableau dashboard analyzing 5 years of liquidity ratios for a com
 - **Portfolio:** [rahulagrawal.com.np](https://rahulagrawal.com.np)
 - **LinkedIn:** [linkedin.com/in/agrawalrahul1025](https://www.linkedin.com/in/agrawalrahul1025/)
 - **GitHub:** [github.com/Rahul5021](https://github.com/Rahul5021)
+- **Kaggle:** [kaggle.com/rahulagrawal1025](https://www.kaggle.com/rahulagrawal1025)
