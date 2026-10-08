@@ -1,15 +1,23 @@
 # Rahul Agrawal — Data Analyst
 
-## 🌟 About Me
+Python · SQL · Business Analytics · Machine Learning
 
-I grew up around my family's retail business, where I developed an interest in how data
-drives business decisions. Today, I use **Python**, **SQL**, **Tableau**, and **Power BI**
-to transform data into meaningful insights, with hands-on experience in financial and
-healthcare analytics. I'm now building on that foundation with real work in AI, Machine
-Learning, and Generative AI — including a hybrid RAG + tool-calling assistant built with
-the Gemini API.
+## About Me
 
-Based in Kathmandu, Nepal.
+I’m a data analyst based in London, currently studying MSc Artificial
+Intelligence & Data Science at St Mary’s University, Twickenham.
+
+My experience spans financial, healthcare and e-commerce analytics.
+I use Python, SQL, Tableau and Power BI to investigate business
+questions and communicate findings.
+
+Growing up around my family’s footwear business in Nepal shaped
+my interest in practical retail problems. My latest project,
+Stock Revive, combines inventory analysis, sales reporting and
+SQLite transaction handling to support size-level stock reviews.
+
+I also build AI applications, including a hybrid RAG and
+SQL tool-calling assistant over customer-review data.
 
 ---
 
@@ -40,7 +48,7 @@ Based in Kathmandu, Nepal.
 
 ## 🧠 Skills
 
-**Core Tools & Languages:** Python (Pandas, NumPy), Excel, SQL, Tableau, Power BI, Flask, Git, GitHub, DVC
+**Core Tools & Languages:** Python (Pandas, NumPy, unittest), Excel, SQL, Tableau, Power BI, Flask, Git, GitHub, DVC, SQLite, Streamlit
 
 **AI / GenAI:** Gemini API, RAG, FAISS, Sentence Transformers, Tool-Calling, Prompt Engineering
 
@@ -50,12 +58,15 @@ Based in Kathmandu, Nepal.
 
 ---
 
-## 📚 Education
+## Education
 
-**Bachelor of Computer Application**
-Tribhuvan University – Kathmandu, Nepal
-CGPA: 3.62
-Relevant Coursework: Data Analysis and Visualization, Statistics, Financial Accounting, Introduction to Management
+### MSc Artificial Intelligence & Data Science
+St Mary’s University — Twickenham, London, UK  
+September 2026 – Present
+
+### Bachelor of Computer Applications
+Mahendra Morang Adarsha Multiple Campus, Tribhuvan University — Nepal  
+CGPA: 3.62/4.00
 
 ---
 
@@ -69,10 +80,29 @@ Relevant Coursework: Data Analysis and Visualization, Statistics, Financial Acco
 
 ## 🚀 Featured Projects
 
+### Stock Revive — Footwear Inventory & Sales Analytics
+
+A retail analytics prototype inspired by my family’s footwear
+business in Nepal. Identifies inactive sizes, shows remaining stock
+and purchase cost, and supports stock-review decisions.
+
+- Size-level alerts with adjustable rules and suggested review actions
+- Sales analytics with revenue, cost of goods and gross-profit trends
+- Discount scenarios with below-cost warnings
+- SQLite sale recording with atomic stock updates and overselling protection
+- Automated test for invalid-import rejection and transaction rollback
+- Evaluation of 30-, 60- and 90-day inactivity thresholds
+
+Uses reproducible synthetic data; real-world impact is not yet measured.
+
+**Tools:** Python, Pandas, SQL, SQLite, Streamlit, unittest
+
+[GitHub Repository](https://github.com/Rahul5021/stock-revive)
+
 ### **E-Commerce AI Assistant**
 A hybrid AI analytics assistant combining SQL tool-calling and RAG over 40,000+ real
 customer reviews — using local embeddings, FAISS, and MMR retrieval, with explicit
-system-prompt safeguards against LLM hallucination.
+system-prompt grounding rules designed to reduce unsupported answers.
 - Python, Gemini API, RAG (FAISS + MMR), DuckDB, Streamlit
 [GitHub Repository](https://github.com/Rahul5021/ecommerce-ai-assistant)
 
@@ -86,7 +116,7 @@ built in both pandas and Power BI.
 ### **Global Sports Footwear Sales — Exploratory Data Analysis**
 End-to-end EDA testing whether brand, discounting, geography, sales channel, and customer
 income level actually drive purchasing behavior — includes a data-provenance case study
-identifying the dataset as synthetically generated based on consistent evidence across
+documenting evidence suggesting synthetic generation based on consistent evidence across
 six independent tests. Implemented in both pandas and SQL.
 - Python, Pandas, SQL, `groupby`, `pd.cut`, `pd.crosstab`, CTEs, window functions
 [GitHub Repository](https://github.com/Rahul5021/footwear-sales-eda) · [Dataset on Kaggle](https://www.kaggle.com/datasets/rahulagrawal1025/global-sports-footwear-sales-20182026-cleaned/data)
